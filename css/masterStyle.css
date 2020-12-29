@@ -50,6 +50,7 @@ article {
   width: 85%;
   background-color: #ffffe6;
   height: 300px; /* only for demonstration, should be removed */
+  font-size: 16px;
 }
 
 #aboutusimg {
