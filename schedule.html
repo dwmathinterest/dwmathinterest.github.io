@@ -3,92 +3,49 @@
 <title>CSS Template</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/schstyle.css">
+<link rel="stylesheet" href="css/schstyle2.css">
 </head>
 <body>
 
 <div id="headerTitle"> load from javaScript file </div>
-
-<header>
-  <h2>Schedule Page</h2>
- 
   
+<header>
+  <div id="headerDiv">
+    <img id="headerImg" src="images/2019-1.jpg" >
+    <img id="headerImg" src="images/2019-5.jpg" >
+    <img id="headerImg" src="images/2019-7.jpg" >
+    <img id="headerImg" src="images/2019-6.jpg" >
+  </div>
 </header>
-
 
 <section>
   <nav id="navigation"> load navigation from javaScript </nav>
   
   <article>
-    <h3>Classes</h3>
     <div>
-      <table>
-          <tr>
-              <th>Date</th>
-              <th>Host</th>
-              <th>Topic</th>
-              <th>Answer</th>
-              <th>Hard Questions</th>
-          </tr>
-          <tr>
-              <td>12/05/20</td>
-              <td>Caden</td>
-              <td><a href="https://ziml.areteem.org/login/index.php">First 9 Problems of ZIML December 2020</a>
-              <td>Provided</td>
-              <td>5, 6, 8, 9</td>
-          </tr>
-          <tr>
-              <td>12/08/20</td>
-              <td>Felix</td>
-              <td><a href="https://ziml.areteem.org/login/index.php">Last 11 Problems of ZIML December 2020</a>
-              <td>Provided</td>
-              <td>12, 17, 19</td>
-          </tr>
-          <tr>
-              <td>12/12/20</td>
-              <td>Allyson</td>
-              <td><a href="https://artofproblemsolving.com/wiki/index.php/2002_AMC_10B_Problems">2002 AMC10B</a>
-              <td><a href="https://artofproblemsolving.com/wiki/index.php/2002_AMC_10B">Answer Key</a></td>
-              <td>18 - 20, 25</td>
-          </tr>
-          <tr>
-              <td>12/15/20</td>
-              <td>Calvin</td>
-              <td><a href="https://cdn.discordapp.com/attachments/776929567414812749/788565790043275284/image0.png">Misc Probability Problems</a>
-              <td>Doesn't Exist (?)</td>
-              <td>1, 2, 10, 11, 15</td>
-          </tr>
-          <tr>
-              <td>12/19/20</td>
-              <td>Brian</td>
-              <td><a href="http://services.aops.com/download.php?id=YXR0YWNobWVudHMvZi9kLzg2YzgwOTQyMTFiM2I2Njk0MzBhNTZlZGUyOTI2NTkzOTkwNDRk&rn=MjAxNC0yMDE1IE1vY2sgQU1DIDEwIFYzLnBkZg==">2014-2015 Mock AMC10</a>
-              <td>Not Found</td>
-              <td>14, 15, 17, 19 - 25</td>
-          
-          </tr>
-          <tr>
-              <td>12/22/20</td>
-              <td>Ruina</td>
-              <td><a href="https://drive.google.com/file/d/1paAHspy5PH1J9fMoNYTb7cIEH3Di72K5/view?usp=drivesdk">2018 Memorial Day Mock AMC10</a>
-              <td><a href="https://drive.google.com/file/d/1tipZuHE11jmmOfnSDnhkwKnvIOnbsbaL/view?usp=drivesdk">Answer Key</a></td>
-              <td>12, 15, 17, 20 - 25</td>
-          
-          </tr>
-          <tr>
-              <td>01/02/21</td>
-              <td>Audrey<br>Felix</td>
-              <td><a href="http://hub.wastudentmath.org/TestFiles/Amc12/Amc12_2005_Individual_0.12_T_B.pdf">2005 AMC12B Last 10 Questions</a> <br>
-              <a href="https://docs.google.com/viewerng/viewer?url=http://latex.artofproblemsolving.com/miscpdf/mockaaaa.pdf">Mock AMC10</td>
-              <td><a href="https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B">Answer Key</a><br>
-              <a href="">Answer Key</a></td>
-          </tr>
-      </table>
-  </div>
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Host</th>
+                <th>Topic</th>
+                <th>Answer</th>
+                <th>Hard Questions</th>
+            </tr>
+            <tr id = "12/05/2020"> </tr>
+            <tr id = "12/08/2020"> </tr>
+            <tr id = "12/12/2020"> </tr>
+            <tr id = "12/15/2020"> </tr>
+            <tr id = "12/19/2020"> </tr>
+            <tr id = "12/22/2020"> </tr>
+            <tr id = "01/02/2021"> </tr>
+        </table>
+    </div>
   </article>
 </section>
 
 <footer id="myFooter"> load footer from javaScript </footer>
 
+<script src="javaScript/scheduleElements.js"> </script>
 <script src="javaScript/load_shared.js"> </script>
 
 </body>
