@@ -3,15 +3,15 @@
 <title>CSS Template</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/0102style.css">
+<link rel="stylesheet" href="css/schstyle.css">
 </head>
 <body>
 
 <div id="headerTitle"> load from javaScript file </div>
 
 <header>
-  <h2>... was leading</h2>
-  <h3>problem set of today</h3>
+  <h2>Schedule Page</h2>
+ 
   
 </header>
 
@@ -20,9 +20,7 @@
   <nav id="navigation"> load navigation from javaScript </nav>
   
   <article>
-    <h1 id="sectionheading">Problems nobody got:</h1>
-    <p id="sectionp1">Question + Solution 1</p>
-    <p id="sectionp2">Question + Solution 2</p>
+
   </article>
 </section>
 
