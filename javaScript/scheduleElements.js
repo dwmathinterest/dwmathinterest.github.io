@@ -6,6 +6,8 @@ document.getElementById("01/02/2021").innerHTML =
 "<a href = 'https://docs.google.com/viewerng/viewer?url=http://latex.artofproblemsolving.com/miscpdf/mockaaaa.pdf'>Mock AMC10</td>" +
 "<td><a href = 'https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B'>Answer Key</a><br>" +
 "<a href = ''>Answer Key</a></td>" +
+"<td>19, 22, 24, 25<br>" +
+"21 - 23, 25</td>" +
 "</tr>";
 
 document.getElementById("12/26/2020").innerHTML = 
