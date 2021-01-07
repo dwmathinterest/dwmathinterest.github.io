@@ -1,9 +1,9 @@
 document.getElementById("01/06/2021").innerHTML = 
 "<tr>" +
-"<td>01/06/21</td>" + 
+"<td>01/06/21</td>" +
 "<td>TBD</td>" +
-"<td>TBD</td>" +
-"<td>TBD</td>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Problems'>2005 AMC12B</a>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Answer_Key'>Answer Key</a></td>" +
 "<td>TBD</td>" +
 "</tr>";
 
