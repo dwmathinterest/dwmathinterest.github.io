@@ -1,5 +1,14 @@
 document.getElementById("01/02/2021").innerHTML = 
 "<tr>" +
+"<td>01/06/21</td>" + 
+"<td>TBD</td>" +
+"<td>TBD</td>" +
+"<td>TBD</td>" +
+"<td>TBD</td>" +
+"</tr>";
+
+document.getElementById("01/02/2021").innerHTML = 
+"<tr>" +
 "<td>01/02/21</td>" + 
 "<td>Audrey<br>Felix</td>" +
 "<td><a href = 'http://hub.wastudentmath.org/TestFiles/Amc12/Amc12_2005_Individual_0.12_T_B.pdf'>2005 AMC12B Last 10 Questions</a> <br> " +
