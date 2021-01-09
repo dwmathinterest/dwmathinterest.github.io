@@ -1,9 +1,18 @@
-document.getElementById("01/06/2021").innerHTML = 
+document.getElementById("01/09/2021").innerHTML = 
 "<tr>" +
-"<td>01/06/21</td>" +
-"<td>TBD</td>" +
-"<td><a href='https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Problems'>2005 AMC12B</a>" +
+"<td>01/09/21</td>" +
+"<td>Calvin</td>" +
+"<td><a href='https://drive.google.com/drive/folders/199tppgvnD7gEA0Ik2kXjilTZToJq_Re5?usp=sharing'>Not sure what this is</a>" +
 "<td><a href='https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Answer_Key'>Answer Key</a></td>" +
+"<td>TBD</td>" +
+"</tr>";
+
+document.getElementById("01/05/2021").innerHTML = 
+"<tr>" +
+"<td>01/05/21</td>" +
+"<td>Felix</td>" +
+"<td>Monthly ZIML Comp</a>" +
+"<td>???</a></td>" +
 "<td>TBD</td>" +
 "</tr>";
 
