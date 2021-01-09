@@ -2,17 +2,17 @@ document.getElementById("01/09/2021").innerHTML =
 "<tr>" +
 "<td>01/09/21</td>" +
 "<td>Calvin</td>" +
-"<td><a href='https://drive.google.com/drive/folders/199tppgvnD7gEA0Ik2kXjilTZToJq_Re5?usp=sharing'>Not sure what this is</a>" +
-"<td><a href='https://artofproblemsolving.com/wiki/index.php/2005_AMC_12B_Answer_Key'>Answer Key</a></td>" +
-"<td>TBD</td>" +
+"<td><a href='https://drive.google.com/drive/folders/199tppgvnD7gEA0Ik2kXjilTZToJq_Re5?usp=sharing'>AIME Number Theory Problems</a>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/Category:Intermediate_Number_Theory_Problems'>Answer Key (First 15 AIME)</a></td>" +
+"<td></td>" +
 "</tr>";
 
 document.getElementById("01/05/2021").innerHTML = 
 "<tr>" +
 "<td>01/05/21</td>" +
 "<td>Felix</td>" +
-"<td>Monthly ZIML Comp</a>" +
-"<td>???</a></td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2400'>ZIML January 2021</a>" +
+"<td>Provided</td>" +
 "<td>TBD</td>" +
 "</tr>";
 
