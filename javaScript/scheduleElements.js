@@ -1,3 +1,12 @@
+document.getElementById("01/12/2021").innerHTML = 
+"<tr>" +
+"<td>01/12/21</td>" +
+"<td>Brian</td>" +
+"<td><a href='https://www.isinj.com/mt-amc10/AMC-10-Mock-2016-Final.pdf'>2016 Mock AMC10 Problems 1 - 15</a>" +
+"<td><a href='#'>Answer Key</a></td>" +
+"<td></td>" +
+"</tr>";
+
 document.getElementById("01/09/2021").innerHTML = 
 "<tr>" +
 "<td>01/09/21</td>" +
