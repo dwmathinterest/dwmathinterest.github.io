@@ -3,8 +3,8 @@ document.getElementById("01/16/2021").innerHTML =
 "<td>01/16/21</td>" +
 "<td>Ruina</td>" +
 "<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvNi8wLzM2NDM5YjdiZWE0MDRjMjgzMDQ2ZGNjOGYwYjdlZDBjODQ4ZDA5LnBkZg==&rn=YW1jMTAucGRm'>Mock 2018 AMC10 (scrabbler)</a>" +
-"<td><a href='#'>Will be provided after class</a></td>" +
-"<td></td>" +
+"<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvNC9hL2RkMTQ2ZWI2MzZiZDcyM2E5NzgxZTgzZjNmYjI2MmMxOWEwZDFmLnBkZg==&rn=YW1jMTAtcy5wZGY='>Answers + Solutions</a></td>" +
+"<td>16, 19-25</td>" +
 "</tr>";
 
 document.getElementById("01/12/2021").innerHTML = 
