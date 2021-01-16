@@ -1,9 +1,18 @@
+document.getElementById("01/16/2021").innerHTML = 
+"<tr>" +
+"<td>01/16/21</td>" +
+"<td>Ruina</td>" +
+"<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvNi8wLzM2NDM5YjdiZWE0MDRjMjgzMDQ2ZGNjOGYwYjdlZDBjODQ4ZDA5LnBkZg==&rn=YW1jMTAucGRm'>Mock 2018 AMC10 (scrabbler)</a>" +
+"<td><a href='#'>Will be provided after class</a></td>" +
+"<td></td>" +
+"</tr>";
+
 document.getElementById("01/12/2021").innerHTML = 
 "<tr>" +
 "<td>01/12/21</td>" +
 "<td>Brian</td>" +
 "<td><a href='https://www.isinj.com/mt-amc10/AMC-10-Mock-2016-Final.pdf'>2016 Mock AMC10 Problems 1 - 15</a>" +
-"<td><a href='#'>Answer Key</a></td>" +
+"<td><a href='https://www.isinj.com/mt-amc10/AMC-10-Mock-2016-Final-Solutions.pdf'>Answer Key</a></td>" +
 "<td></td>" +
 "</tr>";
 
