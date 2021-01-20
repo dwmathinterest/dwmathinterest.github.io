@@ -1,3 +1,12 @@
+document.getElementById("01/19/2021").innerHTML = 
+"<tr>" +
+"<td>01/19/21</td>" +
+"<td>Allyson</td>" +
+"<td><a href='https://artofproblemsolving.com/downloads/printable_post_collections/628064'>2018 Mock AMC 10 (blue8931)</a>" +
+"<td><a href='https://artofproblemsolving.com/community/c628116h1632430_compilation_of_official_solutions'>Answers</a></td>" +
+"<td>5, 9, 11, 13, 20-25</td>" +
+"</tr>";
+
 document.getElementById("01/16/2021").innerHTML = 
 "<tr>" +
 "<td>01/16/21</td>" +
