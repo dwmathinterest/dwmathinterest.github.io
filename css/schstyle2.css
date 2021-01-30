@@ -33,6 +33,9 @@
     height: auto;
   }
   
+  #scheduleTable {
+    margin: 2px;
+  }
   
   /* Create two columns/boxes that floats next to each other */
   nav {
@@ -82,9 +85,13 @@
     padding: 10px;
     text-align: center;
     color: white;
+    margin: 2px;
   }
   
-  
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+  }
   /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
   @media (max-width: 600px) {
     nav, article {

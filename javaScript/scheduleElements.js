@@ -1,3 +1,21 @@
+document.getElementById("01/30/2021").innerHTML = 
+"<tr>" +
+"<td>01/30/21</td>" +
+"<td>Audrey</td>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12A_Problems'>2008 AMC 12A</a>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12A'>Answers + Solutions</a></td>" +
+"<td>14, 17 - 20, 22 - 25</td>" +
+"</tr>";
+
+document.getElementById("01/23/2021").innerHTML = 
+"<tr>" +
+"<td>01/23/21</td>" +
+"<td>Calvin</td>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B_Problems'>2008 AMC 12B</a>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B'>Answers + Solutions</a></td>" +
+"<td>15, 17, 19 - 25</td>" +
+"</tr>";
+
 document.getElementById("01/19/2021").innerHTML = 
 "<tr>" +
 "<td>01/19/21</td>" +

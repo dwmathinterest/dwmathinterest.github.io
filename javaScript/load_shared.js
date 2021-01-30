@@ -8,4 +8,4 @@
                                 + "<li><a href='edulinks.html'>Educational links</a></li></ul>"
 
 
-    document.getElementById("myFooter").innerHTML = " <p>Explore the plethora of math skills we hone it our sessions.</p>";
+    document.getElementById("myFooter").innerHTML = "<p>Explore the plethora of math skills we hone it our sessions.</p>";
