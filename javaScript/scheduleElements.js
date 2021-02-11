@@ -18,7 +18,7 @@ document.getElementById("02/06/2021").innerHTML =
 
 document.getElementById("02/02/2021").innerHTML = 
 "<tr>" +
-"<td>01/30/21</td>" +
+"<td>02/02/2021</td>" +
 "<td>Felix</td>" +
 "<td></td>"
 "<td></td>" +
