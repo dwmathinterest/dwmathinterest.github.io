@@ -1,3 +1,30 @@
+document.getElementById("02/09/2021").innerHTML = 
+"<tr>" +
+"<td>02/09/2021</td>" +
+"<td>Allyson</td>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/Category:Introductory_Probability_Problems'>2008 AMC 12A</a>" +
+"<td><a href='https://artofproblemsolving.com/wiki/index.php/Category:Introductory_Probability_Problems'>Answers + Solutions</a></td>" +
+"<td></td>" +
+"</tr>";
+
+document.getElementById("02/06/2021").innerHTML = 
+"<tr>" +
+"<td>02/06/2021</td>" +
+"<td>Caden</td>" +
+"<td><a href=''>ZIML</a>" +
+"<td><a href=''>Answers + Solutions</a></td>" +
+"<td></td>" +
+"</tr>";
+
+document.getElementById("02/02/2021").innerHTML = 
+"<tr>" +
+"<td>01/30/21</td>" +
+"<td>Felix</td>" +
+"<td></td>"
+"<td></td>" +
+"<td></td>" +
+"</tr>";
+
 document.getElementById("01/30/2021").innerHTML = 
 "<tr>" +
 "<td>01/30/21</td>" +
