@@ -9,7 +9,7 @@ document.getElementById("01/30/2021").innerHTML =
 
 document.getElementById("01/26/2021").innerHTML = 
 "<tr>" +
-"<td>01/23/21</td>" +
+"<td>01/26/21</td>" +
 "<td>Calvin</td>" +
 "<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B_Problems'>2008 AMC 12B</a>" +
 "<td><a href='https://artofproblemsolving.com/wiki/index.php/2008_AMC_12B'>Answers + Solutions</a></td>" +
