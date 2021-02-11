@@ -7,7 +7,7 @@ document.getElementById("01/30/2021").innerHTML =
 "<td>14, 17 - 20, 22 - 25</td>" +
 "</tr>";
 
-document.getElementById("01/23/2021").innerHTML = 
+document.getElementById("01/26/2021").innerHTML = 
 "<tr>" +
 "<td>01/23/21</td>" +
 "<td>Calvin</td>" +
