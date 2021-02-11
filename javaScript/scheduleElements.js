@@ -20,9 +20,9 @@ document.getElementById("02/02/2021").innerHTML =
 "<tr>" +
 "<td>02/02/2021</td>" +
 "<td>Felix</td>" +
-"<td></td>"
-"<td></td>" +
-"<td></td>" +
+"<td>?</td>" +
+"<td>?</td>" +
+"<td>?</td>" +
 "</tr>";
 
 document.getElementById("01/30/2021").innerHTML = 
