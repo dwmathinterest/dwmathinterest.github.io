@@ -1,3 +1,39 @@
+document.getElementById("02/23/2021").innerHTML = 
+"<tr>" +
+"<td>02/20/2021</td>" +
+"<td>Brian</td>" +
+"<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMS8wLzRiM2Y3ODEyNGFkNjRhYjY4MGRlMjQ0NmFhNmE3NjU0ZmJlNzMwLnBkZg==&rn=TW9jayBBTUMgMTAgUHJvYmxlbXMucGRm'>Mock AMC10</a>" +
+"<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMC9mL2UwNmEwNDcwZmUzY2ZjNWU2ZTdmMzhkZmQ1OTY1NTg2OTNjNzY0LnBkZg==&rn=TW9jayBBTUMgMTAgU29sdXRpb25zLnBkZg=='>Answers + Solutions</a></td>" +
+"<td>Basically All of Them</td>" +
+"</tr>";
+
+document.getElementById("02/20/2021").innerHTML = 
+"<tr>" +
+"<td>02/20/2021</td>" +
+"<td>Audrey</td>" +
+"<td><a href='#'>2021 EMCC</a>" +
+"<td><a href='#'>Answers + Solutions</a></td>" +
+"<td>TBD</td>" +
+"</tr>";
+
+document.getElementById("02/16/2021").innerHTML = 
+"<tr>" +
+"<td>02/16/2021</td>" +
+"<td>Felix</td>" +
+"<td>Graphing Absolute Value Equations</td>" +
+"<td>N/A</td>" +
+"<td>N/A</td>" +
+"</tr>";
+
+document.getElementById("02/13/2021").innerHTML = 
+"<tr>" +
+"<td>02/13/2021</td>" +
+"<td>Felix</td>" +
+"<td><a href='#'>ZIML Febuary 2021</a>" +
+"<td><a href='#'>Answers + Solutions</a></td>" +
+"<td>TBD</td>" +
+"</tr>";
+
 document.getElementById("02/09/2021").innerHTML = 
 "<tr>" +
 "<td>02/09/2021</td>" +
@@ -9,9 +45,9 @@ document.getElementById("02/09/2021").innerHTML =
 
 document.getElementById("02/06/2021").innerHTML = 
 "<tr>" +
-"<td>02/05/2021</td>" +
+"<td>02/06/2021</td>" +
 "<td>Caden</td>" +
-"<td><a href=''>ZIML</a>" +
+"<td><a href=''>ZIML Febuary 2021</a>" +
 "<td><a href=''>Answers + Solutions</a></td>" +
 "<td></td>" +
 "</tr>";
@@ -20,9 +56,9 @@ document.getElementById("02/02/2021").innerHTML =
 "<tr>" +
 "<td>02/02/2021</td>" +
 "<td>Felix</td>" +
-"<td>?</td>" +
-"<td>?</td>" +
-"<td>?</td>" +
+"<td><a href = 'https://artofproblemsolving.com/contests/amc-2020-2021-10-practice/review'>Mock AMC 10</a></td>" +
+"<td><a href = 'https://artofproblemsolving.com/contests/amc-2020-2021-10-practice/review'>Mock AMC 10</a></td>" +
+"<td>14, 18, 20 - 25</td>" +
 "</tr>";
 
 document.getElementById("01/30/2021").innerHTML = 
