@@ -9,7 +9,7 @@ document.getElementById("02/09/2021").innerHTML =
 
 document.getElementById("02/06/2021").innerHTML = 
 "<tr>" +
-"<td>02/06/2021</td>" +
+"<td>02/05/2021</td>" +
 "<td>Caden</td>" +
 "<td><a href=''>ZIML</a>" +
 "<td><a href=''>Answers + Solutions</a></td>" +
