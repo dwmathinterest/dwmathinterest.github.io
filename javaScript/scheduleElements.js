@@ -1,6 +1,51 @@
+document.getElementById("03/13/2021").innerHTML = 
+"<tr>" +
+"<td>03/13/2021</td>" +
+"<td>Audrey</td>" +
+"<td><a href = '#'>AOPS (Vol 1, Chpt. 19) #329 - 342</td>" +
+"<td>Answers + Solutions</td>" +
+"<td>333 - 335, 338 - 340</td>" +
+"</tr>";
+
+document.getElementById("03/09/2021").innerHTML = 
+"<tr>" +
+"<td>03/09/2021</td>" +
+"<td>Felix</td>" +
+"<td><a href = '#'>AOPS (Vol 1, Chpt. 18) #319 - 328</td>" +
+"<td>Answers + Solutions</td>" +
+"<td>313, 314, 318 - 320, 322 - 327</td>" +
+"</tr>";
+
+document.getElementById("03/06/2021").innerHTML = 
+"<tr>" +
+"<td>03/06/2021</td>" +
+"<td>Felix</td>" +
+"<td>ZIML March 2021</td>" +
+"<td><a href = 'https://ziml.areteem.org/mod/quiz/view.php?id=2485'>Answers + Solutions</a></td>" +
+"<td>N/A</td>" +
+"</tr>";
+
+document.getElementById("03/02/2021").innerHTML = 
+"<tr>" +
+"<td>03/02/2021</td>" +
+"<td>N/A</td>" +
+"<td>For The Win!</td>" +
+"<td>N/A</td>" +
+"<td>N/A</td>" +
+"</tr>";
+
+document.getElementById("02/27/2021").innerHTML = 
+"<tr>" +
+"<td>02/27/2021</td>" +
+"<td>Calvin</td>" +
+"<td><a href='#'>2021 EMCC Review</a></td>" +
+"<td><a href='#'>Answers</a></td>" +
+"<td>N/A</td>" +
+"</tr>";
+
 document.getElementById("02/23/2021").innerHTML = 
 "<tr>" +
-"<td>02/20/2021</td>" +
+"<td>02/23/2021</td>" +
 "<td>Brian</td>" +
 "<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMS8wLzRiM2Y3ODEyNGFkNjRhYjY4MGRlMjQ0NmFhNmE3NjU0ZmJlNzMwLnBkZg==&rn=TW9jayBBTUMgMTAgUHJvYmxlbXMucGRm'>Mock AMC10</a>" +
 "<td><a href='https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMC9mL2UwNmEwNDcwZmUzY2ZjNWU2ZTdmMzhkZmQ1OTY1NTg2OTNjNzY0LnBkZg==&rn=TW9jayBBTUMgMTAgU29sdXRpb25zLnBkZg=='>Answers + Solutions</a></td>" +
@@ -29,8 +74,8 @@ document.getElementById("02/13/2021").innerHTML =
 "<tr>" +
 "<td>02/13/2021</td>" +
 "<td>Felix</td>" +
-"<td><a href='#'>ZIML Febuary 2021</a>" +
-"<td><a href='#'>Answers + Solutions</a></td>" +
+"<td>ZIML Febuary 2021</td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2443'>Answers + Solutions</a></td>" +
 "<td>TBD</td>" +
 "</tr>";
 
@@ -38,7 +83,7 @@ document.getElementById("02/09/2021").innerHTML =
 "<tr>" +
 "<td>02/09/2021</td>" +
 "<td>Allyson</td>" +
-"<td><a href='https://artofproblemsolving.com/wiki/index.php/Category:Introductory_Probability_Problems'>2008 AMC 12A</a>" +
+"<td>2008 AMC 12A</td>" +
 "<td><a href='https://artofproblemsolving.com/wiki/index.php/Category:Introductory_Probability_Problems'>Answers + Solutions</a></td>" +
 "<td></td>" +
 "</tr>";
@@ -47,8 +92,8 @@ document.getElementById("02/06/2021").innerHTML =
 "<tr>" +
 "<td>02/06/2021</td>" +
 "<td>Caden</td>" +
-"<td><a href=''>ZIML Febuary 2021</a>" +
-"<td><a href=''>Answers + Solutions</a></td>" +
+"<td>ZIML Febuary 2021</td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2443'>Answers + Solutions</a></td>" +
 "<td></td>" +
 "</tr>";
 
@@ -56,7 +101,7 @@ document.getElementById("02/02/2021").innerHTML =
 "<tr>" +
 "<td>02/02/2021</td>" +
 "<td>Felix</td>" +
-"<td><a href = 'https://artofproblemsolving.com/contests/amc-2020-2021-10-practice/review'>Mock AMC 10</a></td>" +
+"<td>Mock AMC 10</td>" +
 "<td><a href = 'https://artofproblemsolving.com/contests/amc-2020-2021-10-practice/review'>Mock AMC 10</a></td>" +
 "<td>14, 18, 20 - 25</td>" +
 "</tr>";
@@ -119,8 +164,8 @@ document.getElementById("01/05/2021").innerHTML =
 "<tr>" +
 "<td>01/05/21</td>" +
 "<td>Felix</td>" +
-"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2400'>ZIML January 2021</a>" +
-"<td>Provided</td>" +
+"<td>ZIML January 2021</td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2400'>Answers + Solutions</a></td>" +
 "<td>TBD</td>" +
 "</tr>";
 
@@ -185,8 +230,8 @@ document.getElementById("12/08/2020").innerHTML =
 "<tr>" +
 "<td>12/08/20</td>" +
 "<td>Felix</td>" +
-"<td><a href='https://ziml.areteem.org/login/index.php'>Last 11 Problems of ZIML December 2020</a>" +
-"<td>Provided</td>" +
+"<td>Last 11 Problems of ZIML December 2020</td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2359'>Answers + Solutions</a></td>" +
 "<td>12, 17, 19</td>" +
 "</tr>";
 
@@ -194,7 +239,7 @@ document.getElementById("12/05/2020").innerHTML =
 "<tr>" +
 "<td>12/05/20</td>" +
 "<td>Caden</td>" +
-"<td><a href='https://ziml.areteem.org/login/index.php'>First 9 Problems of ZIML December 2020</a>" +
-"<td>Provided</td>" +
+"<td>First 9 Problems of ZIML December 2020</td>" +
+"<td><a href='https://ziml.areteem.org/mod/quiz/view.php?id=2359'>Answers + Solutions</td></a>" +
 "<td>5, 6, 8, 9</td>" +
 "</tr>";
